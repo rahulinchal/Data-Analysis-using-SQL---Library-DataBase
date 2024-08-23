@@ -29,3 +29,8 @@ Advance.
 2. Identify the member who has borrowed the most books (Advanced)
 
 
+Schema
+
+<img width="1025" alt="Library Schema" src="https://github.com/user-attachments/assets/3877e6bc-0ef0-4841-b38a-8b9773d0697e">
+
+
