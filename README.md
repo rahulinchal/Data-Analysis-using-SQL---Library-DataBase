@@ -21,12 +21,13 @@ Intermediate.
 3. Identify members who have borrowed more than one book: (Intermediate)
 4. List all overdue books along with the days overdue (consider a book overdue if it hasn't been returned within 30 days): (intermediate)
 5. List all books and their corresponding authors that have been borrowed at least twice: (Intermediate)
-6. Find the difference in the number of books borrowed between two specific members (e.g., 'John Doe' and 'Alice Johnson'): (Intermediate)
-7. Identify all members who borrowed books by a specific author (e.g., 'George Orwell'): (Intermediate)
+
 
 Advance.
-1. Find the most borrowed book (Advanced)
-2. Identify the member who has borrowed the most books (Advanced)
+1. Find the difference in the number of books borrowed between two specific members (e.g., 'John Doe' and 'Alice Johnson'): (Intermediate)
+2. Identify all members who borrowed books by a specific author (e.g., 'George Orwell'): (Intermediate)
+3. Find the most borrowed book (Advanced)
+4. Identify the member who has borrowed the most books (Advanced)
 
 
 Schema
